@@ -1,5 +1,6 @@
 {
   "name": "@lime/test1",
+  "private":false,
   "version": "0.1.0",
   "description": "test npm publish",
   "main": "./src/index.js",
